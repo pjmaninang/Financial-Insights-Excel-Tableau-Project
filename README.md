@@ -27,6 +27,10 @@ The dataset provided by the company contained three separate CSV files - cards_d
 
 ### Overview of Findings
 
+The institution’s customer base is heavily concentrated in California, Texas, Florida, and New York, which together account for over 25% of total customers and lead the nation in transaction volumes—making them pivotal to overall performance. High-spend demographics, particularly customers aged 45–54 and 65+, are driving the greatest average spend per customer, while lower-income brackets ($11.9K–$48.4K) dominate transaction counts, representing the institution’s core market segment. However, credit risk is elevated in key regions, with New York, Oregon, and Washington showing utilization rates far above the healthy benchmark, and customers in Poor and Fair credit brackets exhibiting significant over-leveraging. These trends underscore both the opportunity to strengthen high-value markets and demographics, and the urgent need for targeted credit risk mitigation in vulnerable segments
+
+Below is the overview from the Tableau dashboard
+
 ## Findings and Insights
 
 ### Customer Distribution & Value Analysis
@@ -47,8 +51,20 @@ The dataset provided by the company contained three separate CSV files - cards_d
 
 ### Customer Credit Risk Evaluation
 
-- New York, the fourth largest state in terms of customers and transactions has a large average crediti utilization per customer of 182%
-- 
+- Despite ranking fourth in total customers and transactions, New York stands out with an average credit utilization of 182%—over four times the healthy benchmark and far exceeding the ~40% average observed in the other top three states. This suggests that a significant portion of New York’s customer base may be operating under high credit strain despite their large transaction volume
+- Oregon (323%) and Washington (227%) record some of the highest average credit utilization rates in the nation, indicating a potential regional pattern of elevated credit dependence that warrants closer examination for risk mitigation strategies
+- Customers in the Poor (93%) and Fair (111%) credit score brackets have utilization rates more than 3x the recommended healthy threshold of 30%, indicating significant over-leveraging and heightened default risk
+- Exceptional credit customers maintain an average utilization of just 28%, well below the healthy threshold, reflecting disciplined credit management and reduced risk exposure
+- The concentration of extreme DTI ratios and high utilization in the Poor and Fair segments highlights an opportunity to implement proactive intervention strategies—such as credit counseling, debt restructuring, or product adjustments—to mitigate potential losses
+
+
 ## Recommendations
 
+- Deepen engagement in California, Texas, Florida, and New York through targeted loyalty programs, premium product offerings, and localized marketing, capitalizing on their combined share of over 25% of the customer base and leading transaction volumes
+- Prioritize retention and upselling efforts for the 45–54 and 65+ age groups, which deliver the highest spend and strong transaction volumes, while developing targeted engagement strategies for the 18–24 segment to unlock future lifetime value
+- Implement proactive credit risk management in New York, Oregon, and Washington, including credit monitoring, debt restructuring offers, and educational programs, while leveraging insights from Exceptional credit customers to model best practices across the portfolio
+- Launch acquisition campaigns in underserved states such as Wyoming, Idaho, and the Dakotas, where even modest growth could result in significant percentage gains in customer base size and brand footprint
+
 ## Limitations
+
+- Total debt is not broken down into yearly or monthly payments per customer, so the DTI figures are more of a broad DTI figure based on overall total debt and yearly income
