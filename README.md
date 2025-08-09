@@ -21,7 +21,7 @@ The raw data files can be found [here](https://github.com/pjmaninang/Financial-I
 
 The dataset provided by the company contained three separate CSV files - cards_data.csv, users_data.csv, and transactions_data.csv - with the tables structured as so:
 
-![Tables](https://github.com/pjmaninang/Financial-Insights-Excel-Tableau-Project/blob/main/CSV%20file%20tables.png?raw=true)
+![Tables](
 
 ## Executive Summary
 
@@ -29,7 +29,9 @@ The dataset provided by the company contained three separate CSV files - cards_d
 
 The institution’s customer base is heavily concentrated in California, Texas, Florida, and New York, which together account for over 25% of total customers and lead the nation in transaction volumes—making them pivotal to overall performance. High-spend demographics, particularly customers aged 45–54 and 65+, are driving the greatest average spend per customer, while lower-income brackets ($11.9K–$48.4K) dominate transaction counts, representing the institution’s core market segment. However, credit risk is elevated in key regions, with New York, Oregon, and Washington showing utilization rates far above the healthy benchmark, and customers in Poor and Fair credit brackets exhibiting significant over-leveraging. These trends underscore both the opportunity to strengthen high-value markets and demographics, and the urgent need for targeted credit risk mitigation in vulnerable segments
 
-Below is the overview from the Tableau dashboard
+Below is a top overview from the Tableau dashboard
+
+![Top Overview](https://github.com/pjmaninang/Financial-Insights-Excel-Tableau-Project/blob/main/Top%20Overview.png?raw=true)
 
 ## Findings and Insights
 
