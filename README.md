@@ -74,4 +74,4 @@ Below is a top overview from the Tableau dashboard
 
 ## Limitations
 
-- Total debt is not broken down into yearly or monthly payments per customer, so the DTI figures are more of a broad DTI figure based on overall total debt and yearly income, which has lead to some inflated DTI values
+- Monthly or yearly debt payment data per customer was not available, so the DTI figures are more of a broad DTI figure based on overall total debt and yearly income, which has lead to some inflated DTI values
