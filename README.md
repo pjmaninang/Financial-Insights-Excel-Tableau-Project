@@ -31,7 +31,7 @@ The institution’s customer base is heavily concentrated in California, Texas, 
 
 Below is a top overview from the Tableau dashboard
 
-![Top Overview](https://github.com/pjmaninang/Financial-Insights-Excel-Tableau-Project/blob/main/Top%20Overview.png?raw=true)
+![Top Overview](https://github.com/pjmaninang/Financial-Insights-Excel-Tableau-Project/blob/main/Dashboard%20Overview.png?raw=true)
 
 ## Findings and Insights
 
@@ -43,7 +43,9 @@ Below is a top overview from the Tableau dashboard
 - Wyoming, Idaho, and both Dakotas represent the smallest market presence, each with six or fewer customers. This extremely limited footprint suggests untapped market potential, where even modest growth initiatives could deliver proportionally large percentage gains in customer acquisition
 - Rhode Island ($766K), Colorado ($662K), and Virginia ($630K) achieve the highest average spend per customer nationwide, despite each having fewer than 50 customers — suggesting potential for targeted, high-value customer engagement strategies in these markets
 
-### Spending & Trnasaction Behaviors 
+### Spending & Transaction Behaviors 
+
+![demographics](https://github.com/pjmaninang/Financial-Insights-Excel-Tableau-Project/blob/main/Demographics.png?raw=true)
 
 - Customers aged 45–54 and 65+ exhibit the highest average spend per customer at $496K and $500K respectively, suggesting these groups are critical to driving high-value sales despite potentially smaller customer counts
 - The 18–24 age group has both the lowest average spend ($193K) and the lowest transaction volume (16K transactions), indicating low engagement and potential missed lifetime value if not nurtured early
@@ -52,6 +54,8 @@ Below is a top overview from the Tableau dashboard
 - The $48.4K–$103.3K bracket generates 4.3M transactions, demonstrating strong purchasing behavior that could be further cultivated with targeted upsell and cross-sell strategies
 
 ### Customer Credit Risk Evaluation
+
+![credit](https://github.com/pjmaninang/Financial-Insights-Excel-Tableau-Project/blob/main/Credit%20Risk.png)
 
 - Despite ranking fourth in total customers and transactions, New York stands out with an average credit utilization of 182%—over four times the healthy benchmark and far exceeding the ~40% average observed in the other top three states. This suggests that a significant portion of New York’s customer base may be operating under high credit strain despite their large transaction volume
 - Oregon (323%) and Washington (227%) record some of the highest average credit utilization rates in the nation, indicating a potential regional pattern of elevated credit dependence that warrants closer examination for risk mitigation strategies
