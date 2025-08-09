@@ -5,7 +5,7 @@
 
 This financial institution was seeking a comprehensive analysis of its customers throughout the 2010s, using a transaction-focused dataset. The provided data encompasses a substantial volume of customer transactions over the decade, supplemented by key customer profile attributes. Through detailed analysis and visualization, this project uncovers actionable insights into customer value, spending behavior, and financial risk, enabling the institution to inform strategic decision-making, optimize customer engagement, and identify opportunities for growth.
 
-Using Excel Power Query to clean the data, and Tableau for visualization, insights and recommendations were focused on these objectives:
+Using Excel Power Query to clean the data and Tableau for visualization, insights and recommendations were focused on these objectives:
 
 - Identify the most valuable customer segments by state, age group, and transaction behavior, using metrics such as total customers, average spending per customer, and total transaction counts
 - Compare spending patterns and transaction volumes across different age groups to uncover high-value demographics and potential growth opportunities
@@ -74,4 +74,4 @@ Below is a top overview from the Tableau dashboard
 
 ## Limitations
 
-- Total debt is not broken down into yearly or monthly payments per customer, so the DTI figures are more of a broad DTI figure based on overall total debt and yearly income
+- Total debt is not broken down into yearly or monthly payments per customer, so the DTI figures are more of a broad DTI figure based on overall total debt and yearly income, which has lead to some inflated DTI values
