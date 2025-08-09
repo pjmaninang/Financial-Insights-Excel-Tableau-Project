@@ -1,3 +1,4 @@
+![banner](https://github.com/pjmaninang/Financial-Insights-Excel-Tableau-Project/blob/main/bank%20banner%20pic.avif?raw=true)
 # Financial Customer Insights & Risk Metrics - Excel/Tableau Project
 
 ## Project Overview
