@@ -22,7 +22,7 @@ The raw data files can be found [here](https://github.com/pjmaninang/Financial-I
 
 The dataset provided by the company contained three separate CSV files - cards_data.csv, users_data.csv, and transactions_data.csv - with the tables structured as so:
 
-![Tables](
+![Tables](https://github.com/pjmaninang/Financial-Insights-Excel-Tableau-Project/blob/main/CSV%20file%20tables.png)
 
 ## Executive Summary
 
